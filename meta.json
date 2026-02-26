@@ -1,0 +1,15 @@
+{
+  "name": "Neuro Fluff",
+  "symbol": "NFLUFF",
+  "description": "AI-powered mining token for the Neuro project.",
+  "image": "https://run-node.com/logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://run-node.com/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
